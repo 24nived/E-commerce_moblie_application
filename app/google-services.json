@@ -1,0 +1,144 @@
+{
+  "project_info": {
+    "project_number": "241660163934",
+    "firebase_url": "https://navascloset-17b42-default-rtdb.firebaseio.com",
+    "project_id": "navascloset-17b42",
+    "storage_bucket": "navascloset-17b42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241660163934:android:45c65f8db1516f5e2141cf",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnYPM8LfoWQGk22QDzBoW_BiE070dVQ5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241660163934:android:36e690cf95e12a7b2141cf",
+        "android_client_info": {
+          "package_name": "com.example.kleine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnYPM8LfoWQGk22QDzBoW_BiE070dVQ5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241660163934:android:a366bbbfbcb42c652141cf",
+        "android_client_info": {
+          "package_name": "com.example.martke"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnYPM8LfoWQGk22QDzBoW_BiE070dVQ5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241660163934:android:2d15baa38a39dae22141cf",
+        "android_client_info": {
+          "package_name": "com.example.navasc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnYPM8LfoWQGk22QDzBoW_BiE070dVQ5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241660163934:android:e0440275344fdb2b2141cf",
+        "android_client_info": {
+          "package_name": "com.example.navasloginsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnYPM8LfoWQGk22QDzBoW_BiE070dVQ5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241660163934:android:bdcc21be9f2a94342141cf",
+        "android_client_info": {
+          "package_name": "com.example.navcloset"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnYPM8LfoWQGk22QDzBoW_BiE070dVQ5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241660163934:android:67df62bc826b34ec2141cf",
+        "android_client_info": {
+          "package_name": "com.example.productsadder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnYPM8LfoWQGk22QDzBoW_BiE070dVQ5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
