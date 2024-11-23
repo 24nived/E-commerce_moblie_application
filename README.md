@@ -44,9 +44,11 @@
 2. Open in Android Studio
   Open the project folder in Android Studio.
   Ensure all required SDKs and tools are installed.
+
 3.Configure Firebase
   Add your google-services.json file to the app/ directory.
   Set up Firebase Authentication, Firestore Database, and Storage as needed.
+  
 4.Build and Run
   Connect your Android device or emulator.
   Click on Run to build and launch the app.
